@@ -4,7 +4,9 @@
 * Morador da cidade do Rio de Janeiro - RJ
 * Formado em Web FullStack pelo SENAC atráves do Programadores Carioca em 2022.
 
-### Tecnologias
+---
+
+### Linguagens e Tecnologias
 
 <img align="" height="" width="" src="">
 
