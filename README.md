@@ -5,10 +5,10 @@
 * Formado em Web FullStack pelo SENAC atráves do Programadores Carioca em 2022.
 
 ---
-
 ### Linguagens e Tecnologias
 
-<img align="" height="" width="" src="">
+<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
 
 ### Minhas redes sociais
 <a href="https://discord.com/users/Poubelziin#3316">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
