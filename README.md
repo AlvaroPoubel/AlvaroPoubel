@@ -3,6 +3,7 @@
 * Estudante de Análise e Desenvolvimento de Sistemas
 * Morador da cidade do Rio de Janeiro - RJ
 * Formado em Web FullStack pelo SENAC atráves do Programadores Carioca em 2022.
+* Confira mais informações em meu site pessoal www.alvaropoubel.me
 
 ##
 ### Linguagens e Tecnologias
