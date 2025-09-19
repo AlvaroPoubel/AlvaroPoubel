@@ -1,7 +1,7 @@
 ## Olá, eu sou Alvaro Poubel 👋
 
 * Estudante de Análise e Desenvolvimento de Sistemas
-* Morador da cidade do Rio de Janeiro - RJ
+* Residente na cidade do Rio de Janeiro - RJ
 * Formado em Web FullStack pelo SENAC atráves do Programadores Cariocas em 2023.
 * Confira mais informações em meu site pessoal www.alvaropoubel.me
 
